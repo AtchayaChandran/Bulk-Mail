@@ -45,7 +45,7 @@ function App() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/sendemail", // ✅ use your backend
+        "https://bulk-mail-backend-g0pe.onrender.com/sendemail", // ✅ use your backend
         {
           emailList: emails,
           subject: subject,
