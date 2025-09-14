@@ -30,5 +30,8 @@ Other: CORS, FileReader API
 2. App extracts valid emails from the file.  
 3. Type your message in the Compose Message section.  
 4. Click Send Emails → Emails are sent to all recipients 🚀.
+   
+---
+
 
 🚀 Live Demo: [Click Here](https://bulk-mail-frontend-j8uu.onrender.com/)
